@@ -1,0 +1,13 @@
+.fondo-tabla{
+    /*background-color: #AEC6CF;
+    background-color: #c0aecf;*/
+    background-color: rgba(147, 150, 239, 0.73);
+    height: max-content;
+}
+/*.fondo{
+    background-color: #300C12;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg %3E%3Ccircle fill='%23300C12' cx='50' cy='0' r='50'/%3E%3Cg fill='%23330d13' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%23360d14' cx='50' cy='100' r='50'/%3E%3Cg fill='%23390e15' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%233c0f16' cx='50' cy='200' r='50'/%3E%3Cg fill='%233f1018' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%23411019' cx='50' cy='300' r='50'/%3E%3Cg fill='%2344111a' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%2347121b' cx='50' cy='400' r='50'/%3E%3Cg fill='%234a121c' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%234d131d' cx='50' cy='500' r='50'/%3E%3Cg fill='%2350141e' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%2353141f' cx='50' cy='600' r='50'/%3E%3Cg fill='%23561520' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%23591621' cx='50' cy='700' r='50'/%3E%3Cg fill='%235c1723' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%235e1724' cx='50' cy='800' r='50'/%3E%3Cg fill='%23611825' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%23641926' cx='50' cy='900' r='50'/%3E%3Cg fill='%23671927' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%236A1A28' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: contain;
+    height: 100vh;
+}*/
